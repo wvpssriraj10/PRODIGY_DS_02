@@ -51,7 +51,7 @@ Jupyter Notebook or Google Colab
 Clone Repository
 Run the following command in your terminal:
 
-git clone https://github.com/your-github-username/titanic-analysis.git
+git clone https://github.com/wvpssriraj10/titanic.git
 
 Then navigate to the folder:
 
