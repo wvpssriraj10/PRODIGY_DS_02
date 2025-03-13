@@ -86,6 +86,6 @@ License
 This project is open-source and available under the MIT License.
 
 Contact
-Author: Your Name
-Email: your.email@example.com
-GitHub: Your GitHub Profile
+Author: W V P S SRIRAJ
+Email: wsriraj10@gmail.com
+GitHub: https://github.com/wvpssriraj10
